@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homeworks-forms-hex2rgb/static/css/main.0bad4df7.chunk.css",
+    "main.js": "/homeworks-forms-hex2rgb/static/js/main.f3c68255.chunk.js",
+    "main.js.map": "/homeworks-forms-hex2rgb/static/js/main.f3c68255.chunk.js.map",
+    "runtime-main.js": "/homeworks-forms-hex2rgb/static/js/runtime-main.785208b8.js",
+    "runtime-main.js.map": "/homeworks-forms-hex2rgb/static/js/runtime-main.785208b8.js.map",
+    "static/js/2.6434f847.chunk.js": "/homeworks-forms-hex2rgb/static/js/2.6434f847.chunk.js",
+    "static/js/2.6434f847.chunk.js.map": "/homeworks-forms-hex2rgb/static/js/2.6434f847.chunk.js.map",
+    "static/js/3.2a70400e.chunk.js": "/homeworks-forms-hex2rgb/static/js/3.2a70400e.chunk.js",
+    "static/js/3.2a70400e.chunk.js.map": "/homeworks-forms-hex2rgb/static/js/3.2a70400e.chunk.js.map",
+    "index.html": "/homeworks-forms-hex2rgb/index.html",
+    "static/css/main.0bad4df7.chunk.css.map": "/homeworks-forms-hex2rgb/static/css/main.0bad4df7.chunk.css.map",
+    "static/js/2.6434f847.chunk.js.LICENSE.txt": "/homeworks-forms-hex2rgb/static/js/2.6434f847.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.785208b8.js",
+    "static/js/2.6434f847.chunk.js",
+    "static/css/main.0bad4df7.chunk.css",
+    "static/js/main.f3c68255.chunk.js"
+  ]
+}
