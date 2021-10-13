@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/homeworks-forms-hex2rgb/static/css/main.0bad4df7.chunk.css",
-    "main.js": "/homeworks-forms-hex2rgb/static/js/main.f3c68255.chunk.js",
-    "main.js.map": "/homeworks-forms-hex2rgb/static/js/main.f3c68255.chunk.js.map",
+    "main.js": "/homeworks-forms-hex2rgb/static/js/main.beab5630.chunk.js",
+    "main.js.map": "/homeworks-forms-hex2rgb/static/js/main.beab5630.chunk.js.map",
     "runtime-main.js": "/homeworks-forms-hex2rgb/static/js/runtime-main.785208b8.js",
     "runtime-main.js.map": "/homeworks-forms-hex2rgb/static/js/runtime-main.785208b8.js.map",
     "static/js/2.6434f847.chunk.js": "/homeworks-forms-hex2rgb/static/js/2.6434f847.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.785208b8.js",
     "static/js/2.6434f847.chunk.js",
     "static/css/main.0bad4df7.chunk.css",
-    "static/js/main.f3c68255.chunk.js"
+    "static/js/main.beab5630.chunk.js"
   ]
 }
