@@ -25,7 +25,7 @@ function App() {
         .map(x => parseInt(x, 16));
 
       for (let i = 0; i < arrayColors10.length; i++){
-        if (typeof arrayColors10[i] === 'number' && isNaN(arrayColors10[i])) {
+        if (isNaN(arrayColors10[i]) || value[0] !== '#') {
           setBackgroundColor('#e94b35');
           rgbColorsString = 'Ошибка!';
           setRgb(rgbColorsString);
